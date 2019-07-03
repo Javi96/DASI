@@ -1,0 +1,19 @@
+[
+	{ "_id": "1", "tipo": "comida", "primero": "ensalada", "segundo": "sopa", "postre": "fruta", "dieta": "baja_grasas", "tipo_dieta":"vegetariana", "dificultad": "dificil" },
+	{ "_id": "2", "tipo": "comida", "primero": "pescado", "segundo": "verdura", "postre": "fruta", "dieta": "baja_grasas", "tipo_dieta":"mediterranea", "dificultad": "sencillo" },
+	{ "_id": "3", "tipo": "comida", "primero": "pollo", "segundo": "verdura", "postre": "infusion", "dieta": "baja_grasas", "tipo_dieta":"mediterranea", "dificultad": "sencillo" },
+	{ "_id": "13", "tipo": "comida", "primero": "puerro", "segundo": "verdura", "postre": "infusion", "dieta": "baja_grasas", "tipo_dieta":"mediterranea", "dificultad": "sencillo" },
+	{ "_id": "14", "tipo": "comida", "primero": "zanahoria", "segundo": "verdura", "postre": "infusion", "dieta": "baja_grasas", "tipo_dieta":"mediterranea", "dificultad": "sencillo" },
+	{ "_id": "15", "tipo": "comida", "primero": "calabacin", "segundo": "verdura", "postre": "infusion", "dieta": "baja_grasas", "tipo_dieta":"mediterranea", "dificultad": "sencillo" },
+	{ "_id": "16", "tipo": "comida", "primero": "pollo", "segundo": "verdura", "postre": "infusion", "dieta": "baja_grasas", "tipo_dieta":"mediterranea", "dificultad": "sencillo" },
+	{ "_id": "4", "tipo": "comida", "primero": "pollo", "segundo": "verdura", "postre": "infusion", "dieta": "alta_proteinas", "tipo_dieta":"proteinas", "dificultad": "sencillo" },
+	{ "_id": "5", "tipo": "cena", "primero": "queso fresco", "postre": "fruta", "dieta": "baja_grasas", "dificultad": "sencillo" },
+	{ "_id": "6", "tipo": "cena", "primero": "pescado", "postre": "infusion", "dieta": "baja_grasas", "dificultad": "sencillo" },
+	{ "_id": "7", "tipo": "cena", "primero": "yogurt", "postre": "infusion", "dieta": "baja_grasas", "dificultad": "sencillo" },
+	{ "_id": "8", "tipo": "cena", "primero": "yogurt", "postre": "infusion", "dieta": "alta_proteinas", "dificultad": "sencillo" },
+	{ "_id": "9", "tipo": "desayuno", "dieta": "baja_grasas", "fruta": "manzana", "lacteo": "cafe", "dificultad": "sencillo" },
+	{ "_id": "10", "tipo": "desayuno", "dieta": "baja_grasas", "cereal": "almendras", "lacteo": "queso", "embutido": "chope", "dificultad": "sencillo" },
+	{ "_id": "11", "tipo": "desayuno", "dieta": "baja_grasas", "fruta": "platano", "lacteo": "leche", "dificultad": "sencillo"},
+	{ "_id": "12", "tipo": "desayuno", "dieta": "alta_proteinas", "fruta": "platano", "lacteo": "leche", "dificultad": "sencillo" }
+]
+
